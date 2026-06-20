@@ -1,3 +1,5 @@
+<img width="640" height="480" alt="Hand volume control_outputs4" src="https://github.com/user-attachments/assets/e6dc4db7-7d3e-42ba-9aca-c068cbf68a71" />
+<img width="640" height="480" alt="Volunme controll with hands5" src="https://github.com/user-attachments/assets/30db0649-1284-4274-9d62-f84dcf95bddb" />
 # 🖐️ Hand Gesture Volume Control 
 
 Hey! Welcome to my project. This is a super fun Python tool I built that lets you control your PC's system volume using nothing but your hand gestures. No more searching for your keyboard or adjusting the mouse slider—just use your thumb and index finger like a virtual remote control! 🚀
